@@ -57,6 +57,11 @@
 
 #start {
   background: #000;
-  min-height: 100vh; }
+  min-height: 100vh;
+  display: flex;
+  align-items: center; }
+  #start h1 {
+    color: #fff;
+    text-align: center; }
 
 /*# sourceMappingURL=style.css.map */
